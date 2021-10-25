@@ -1,0 +1,25 @@
+@import "../../../Styles/Shared/Color/color.scss";
+
+.hero-container {
+  background-color: $skeptic-color;
+  height: 49.5rem;
+}
+.plain-button {
+  background-color: #158159;
+  color: white;
+  padding: 4px 10px;
+  border-radius: 10px;
+  border: none;
+  text-decoration: none;
+  font-weight: bold;
+}
+.main-first {
+  width: 655px;
+  margin: auto;
+}
+
+.hero-image {
+  width: 60rem;
+  height: 792px;
+  object-fit: cover;
+}

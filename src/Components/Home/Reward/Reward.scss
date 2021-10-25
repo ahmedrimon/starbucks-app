@@ -1,0 +1,13 @@
+@import '../../../Styles/Shared/Color/color.scss';
+div {
+    .reward-container {
+        background-color: $primary-color;
+        height: 3rem;
+    }
+    .reward-title {
+        color: white;
+        font-weight: 700;
+        margin-left: 12.5rem;
+        padding-top: 0.7rem;
+    }
+}
