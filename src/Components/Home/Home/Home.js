@@ -1,4 +1,6 @@
 import React from 'react';
+import Extra from '../Extra/Extra';
+import Favourite from '../Favourite/Favourite';
 
 import Header from '../Header/Header';
 import Hero from '../Hero/Hero';
@@ -12,6 +14,8 @@ const Home = () => {
             <Reward></Reward>
             <Hero></Hero>
             <Started></Started>
+            <Favourite></Favourite>
+            <Extra></Extra>
         </div>
     );
 };
