@@ -2,6 +2,7 @@ import React from 'react';
 import CashCard from '../CashCard/CashCard';
 import Extra from '../Extra/Extra';
 import Favourite from '../Favourite/Favourite';
+import Footer from '../Footer/Footer';
 
 import Header from '../Header/Header';
 import Hero from '../Hero/Hero';
@@ -22,6 +23,7 @@ const Home = () => {
             <CashCard></CashCard>
             <StarCode></StarCode>
             <Participate></Participate>
+            <Footer></Footer>
         </div>
     );
 };
