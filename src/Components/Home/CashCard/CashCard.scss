@@ -1,0 +1,14 @@
+@import '../../../Styles/Shared/Color/color.scss';
+
+.cashcard-container {
+    background-color: $ala-baster;
+    height: 78em;
+    .cashcard-top {
+        margin-left: 45.5em;
+        padding-top: 2em;
+    }
+    
+}
+.hr-tag {
+    border-bottom: 1px solid gray;
+}

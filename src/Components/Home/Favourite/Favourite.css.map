@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,gBAAgB,CAAC;EACb,gBAAgB,ECAP,OAAO;EDChB,MAAM,EAAE,MAAM;CACjB;;AACD,AAAA,YAAY,CAAC;EACT,WAAW,EAAE,MAAM;CACtB;;AACD,AAAA,UAAU,CAAC;EACP,SAAS,EAAE,KAAK;EAChB,KAAK,EAAE,OAAO;CACjB;;AACD,AAAA,gBAAgB,CAAC;EACb,gBAAgB,ECZJ,OAAO;CDatB;;AACD,AAAA,QAAQ,CAAC;EAEL,KAAK,EAAE,IAAI;CAEd;;AACD,AAAA,eAAe,CAAC;EACZ,WAAW,EAAE,MAAM;CACtB;;AACD,AAAA,YAAY,CAAC;EACT,WAAW,EAAE,GAAG;EAChB,UAAU,EAAE,GAAG;CAClB",
+    "sources": [
+        "Favourite.scss",
+        "../../../Styles/Shared/Color/color.scss"
+    ],
+    "names": [],
+    "file": "Favourite.css"
+}

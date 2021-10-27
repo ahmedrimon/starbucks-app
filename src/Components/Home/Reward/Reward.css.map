@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AACA,AACI,GADD,CACC,iBAAiB,CAAC;EACd,gBAAgB,ECHR,OAAO;EDIf,MAAM,EAAE,IAAI;CACf;;AAJL,AAKI,GALD,CAKC,aAAa,CAAC;EACV,KAAK,EAAE,KAAK;EACZ,WAAW,EAAE,GAAG;EAChB,WAAW,EAAE,OAAO;EACpB,WAAW,EAAE,MAAM;CACtB",
+    "sources": [
+        "Reward.scss",
+        "../../../Styles/Shared/Color/color.scss"
+    ],
+    "names": [],
+    "file": "Reward.css"
+}

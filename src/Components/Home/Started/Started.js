@@ -15,14 +15,12 @@ const startedData = [
   {
     images: two,
     title: "Order and pay how you’d",
-    description:
-      "Use cash, credit/debit card or save some time and pay right through the app. You’ll collect Stars all ways. Learn how",
+    description: "Use cash, credit/debit card or save some time and pay right through the app. You’ll collect Stars all ways. Learn how",
   },
   {
     images: three,
     title: "Earn Stars, get Rewards",
-    description:
-      "As you earn Stars, you can redeem them for Rewards—like free food, drinks, and more. Start redeeming with as little as 25 Stars!",
+    description: "As you earn Stars, you can redeem them for Rewards—like free food, drinks, and more. Start redeeming with as little as 25 Stars!",
   },
 ];
 
